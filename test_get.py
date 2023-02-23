@@ -1,5 +1,5 @@
 """
-Some basic tests for the ApiChecker.
+Some basic tests for the api_checker.
 Run with: pytest.
 """
 
